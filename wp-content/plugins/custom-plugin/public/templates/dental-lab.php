@@ -111,5 +111,5 @@
 
 		</form>	
 
-		<span id="idclose">x</span>
+		<span onClick="closepoup()">x</span>
 </div>
