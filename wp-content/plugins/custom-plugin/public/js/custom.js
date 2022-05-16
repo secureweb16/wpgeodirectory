@@ -1,5 +1,5 @@
 function model_open(id){
-  console.log('id',id);
+  
       jQuery.ajax({
         type:"POST",
         url:my_ajax_object.ajax_url,
@@ -8,10 +8,10 @@ function model_open(id){
           post_id:id,
         },
         success:function(response){
-          const obj = JSON.parse(response);
-          console.log('response',obj)
-          jQuery('input[name="cs_clinic_name"]').val(obj.clinic_name)
-          jQuery('input[name="cs_dentist_name"]').val(obj.doctor_name)
+          const obj = JSON.parse(response);          
+          jQuery('input[name="cs_clinic_name"]').val(obj.clinic_name);
+          jQuery('input[name="cs_dentist_name"]').val(obj.doctor_name);
+          jQuery('#custom-poup-form').show();
           // jQuery('.loadershow').hide();
           // jQuery('.updatetoken').removeClass('showloader');
           // if(response !='success'){

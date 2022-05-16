@@ -1,4 +1,4 @@
-<div class="custom-poup-form">
+<div id="custom-poup-form" class="custom-poup-form" style="display: none;">
 	
 		<form method="post">
 			<h4>Order Details</h4>
@@ -110,4 +110,6 @@
 			</div>
 
 		</form>	
+
+		<span id="idclose">x</span>
 </div>
