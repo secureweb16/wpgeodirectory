@@ -4,7 +4,7 @@
     display: flex;
     flex-wrap: wrap;
 }
-#custom-poup-form.custom-poup-form{
+#custom-poup-form.custom-poup-form {
     display: none;
 }
 
@@ -22,7 +22,7 @@
     padding: 0 80px;
     height: 100%;
     transform: translateY(-50%);
-    display: flex;
+    display: flex ;
     justify-content: center;
     align-items: center;
 }
@@ -30,7 +30,7 @@
     background: #fff;
     max-width: 900px;
     width: 100%;
-    margin: 0 auto;
+    margin: 50px auto;
     padding: 30px;
     border-radius: 10px;
     position: relative;
@@ -162,4 +162,26 @@
 /* Handle on hover */
 .popup_wrap::-webkit-scrollbar-thumb:hover {
   background: #b30000; 
+}
+/*search-page*/
+.wp-block-geodirectory-geodir-widget-post-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+.wp-block-geodirectory-geodir-widget-post-title span {
+    background: #fe623e;
+    padding: 7px 19px;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.wp-block-geodirectory-geodir-widget-post-title span:hover{
+    background-color: #eb5b3a;
+    border-color: #e55938;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15);
+    outline: 0 !important;
 }

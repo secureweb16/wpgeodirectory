@@ -1,0 +1,79 @@
+/*table*/
+.main-admin-tble {
+    max-width: 1271px;
+    margin: 0 auto;
+}
+.admin-tble {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.admin-tble table {
+    border-spacing: 0;
+    border: 1px solid #cac5c5;
+}
+.admin-tble thead tr th {
+    width: 120px;
+    padding: 10px;
+    color: #fff;
+    text-align: start;
+    background: #fe623e;
+    border-left: 1px solid #cac5c5;
+
+}
+.admin-tble tbody tr td {
+    padding: 10px;
+    background: #fff;
+    border-left: 1px solid #cac5c5;
+    border-bottom: 1px solid #cac5c5;
+
+}
+/*page arrows*/
+.pgearow {
+    display: flex;
+    justify-content: end;
+}
+.bottomdiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coinpaginaton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 12px;
+}
+.coinpaginaton ul{
+	display: flex;
+}
+.coinpaginaton ul li{
+	margin: 0;
+}
+.coinpaginaton ul li a {
+    padding: 0 5px;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    color: #fff;
+    text-decoration: none;
+}
+.coinpaginaton ul li a.active{
+
+	border: 1px solid #fff;
+    background: #fff;
+    color: #000;
+}
+ul#pagin li,.coinpaginaton .next,.coinpaginaton .prev  {
+    padding: 5px;
+    border: 1px solid #fe623e;
+    background: #fe623e;
+    margin: 5px;
+}
+.coinpaginaton .next,.coinpaginaton .prev {	
+    color: #fff;
+    padding: 5px 10px !important;
+}	
+.bottomdiv h4{
+	font-size: 16px;
+}
