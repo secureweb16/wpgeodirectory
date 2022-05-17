@@ -230,6 +230,12 @@ class Custom_Plugin_Public_Module {
 
 		}
 
+		if($data['cs_patient_age'] == ''){
+
+			$check_validation['cs_patient_age'] = 'Patient age is required';
+
+		}
+
 		if($data['cs_gender'] == ''){
 
 			$check_validation['cs_gender'] = 'Gender is required';

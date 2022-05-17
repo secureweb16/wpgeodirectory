@@ -7,7 +7,7 @@ jQuery(document).ready(function ($) {
 
 
   jQuery('.prev').hide();
-  pageSize = 2;
+  pageSize = 20;
   var oldpage = '';
   
   var pageCount =  jQuery(".page-pagination").length / pageSize;  
