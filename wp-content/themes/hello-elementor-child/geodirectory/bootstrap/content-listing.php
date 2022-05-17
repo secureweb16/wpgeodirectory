@@ -43,7 +43,7 @@ global $gd_post;
             <div class="wp-block-geodirectory-geodir-widget-post-title">
                 <?= do_shortcode("[gd_post_title tag='h2' font_size_class='h5' overflow='ellipsis' ]"); ?>
                 <span onClick="model_open(<?php echo get_the_ID(); ?>)"> LAB SHEET 
-                    <img src="<?php echo plugins_url(); ?>\custom-plugin\public\css\ajax-loader.gif" id="imageloader">
+                    <img src="<?php echo plugins_url(); ?>\custom-plugin\public\css\ajax-loader.gif" id="imageloader_<?php echo get_the_ID(); ?>" style="display: none;">
                 </span>
             </div>
 

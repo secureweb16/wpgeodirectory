@@ -44,8 +44,6 @@ class Custom_Plugin_Admin {
 
      * The ID of this plugin.
 
-     *
-
      * @since    1.0.0
 
      * @access   private
@@ -59,8 +57,6 @@ class Custom_Plugin_Admin {
     /**
 
      * The version of this plugin.
-
-     *
 
      * @since    1.0.0
 
@@ -77,8 +73,6 @@ class Custom_Plugin_Admin {
     /**
 
      * Initialize the class and set its properties.
-
-     *
 
      * @since    1.0.0
 
@@ -102,8 +96,6 @@ class Custom_Plugin_Admin {
 
      * Register the hooks for the admin area.
 
-     *
-
      * @since    1.0.0
 
      */
@@ -119,8 +111,8 @@ class Custom_Plugin_Admin {
         'dashicons-images-alt',
         10
       );
-    
-   
+      
+      
 
     }
 
@@ -141,8 +133,6 @@ class Custom_Plugin_Admin {
 
      * Register the hooks for the admin area.
 
-     *
-
      * @since    1.0.0
 
      */
@@ -161,25 +151,21 @@ class Custom_Plugin_Admin {
 
     function save_post_meta_data(){
 
-      $post_id=$_POST['post_ID'];
+      if(isset($_POST['post_type']) && $_POST['post_type'] == 'gd_place') {
 
-      $post_type = $_POST['post_type'];
-
-      if($post_type == 'gd_place') {
+        $post_id=$_POST['post_ID'];
 
         $doctor_name = $_POST['doctor_name'];
 
         update_post_meta($post_id, 'cs_doctor_name', $doctor_name );
         
       }
-  }
+    }
 
 
     /**
 
      * Register the stylesheets for the admin area.
-
-     *
 
      * @since    1.0.0
 
@@ -192,28 +178,40 @@ class Custom_Plugin_Admin {
     }
 
     public function init_hook() {
-      add_filter('use_block_editor_for_post', '__return_false', 10);
-     
+      // add_filter('use_block_editor_for_post', '__return_false', 10);
+    //  register_post_type( 'dentist_appoinment',      
+    //   array(
+    //     'labels' => array(
+    //       'name' => __( 'Blog Post' ),
+    //       'singular_name' => __( 'Blog Post' )
+    //     ),
+    //     'public' => true,
+    //     'has_archive' => true,
+    //     'rewrite' => array('slug' => 'blog-post'),
+    //     'show_in_rest' => true,
+    //     'supports' => array('title','editor','thumbnail'),
+    //     'taxonomies'    => array('blog-category', 'Category' ),
+    //   )
+    // );
     }
 
-   
+    
 
 
   /**
 
   * Register the JavaScript for the admin area.
 
-  *
-
   * @since    1.0.0
 
   */
 
-  public function enqueue_scripts() {
+  public function enqueue_scripts() 
+  {
     wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/admin-custom.js?v='.time(), array( 'jquery' ), false );
     wp_enqueue_script( 'ajax-script', plugin_dir_url( __FILE__ ) . 'js/my-ajax-script.js', array('jquery') );
     wp_localize_script( 'ajax-script', 'my_ajax_object', array( 'ajax_url' => admin_url( 'admin-ajax.php' ) ) );
   }
 
-  }
+}
 

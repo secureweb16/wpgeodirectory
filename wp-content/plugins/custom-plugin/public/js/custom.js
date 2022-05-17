@@ -1,4 +1,7 @@
-function model_open(id){  
+function model_open(id){ 
+  jQuery('#custom-poup-form .success').remove();
+  jQuery('#custom-poup-form .error').remove();
+  jQuery('#imageloader_'+id).show();
   jQuery.ajax({
     type:"POST",
     url:my_ajax_object.ajax_url,
@@ -10,18 +13,14 @@ function model_open(id){
       const obj = JSON.parse(response);          
       jQuery('input[name="cs_clinic_name"]').val(obj.clinic_name);
       jQuery('input[name="cs_dentist_name"]').val(obj.doctor_name);
-      jQuery('#custom-poup-form').show();
-      // jQuery('.loadershow').hide();
-      // jQuery('.updatetoken').removeClass('showloader');
-      // if(response !='success'){
-      //   jQuery('.errordiv').html(response);
-      // }else{
-      //   window.location = permlink;
-      // }
+      jQuery('input[name="cs_post_id"]').val(id);
+      jQuery('#custom-poup-form').addClass('showform');
+      jQuery('#imageloader_'+id).hide();
     }
   });
 }
 
 function closepoup(){
-  jQuery('#custom-poup-form').hide();
+  jQuery('#custom-poup-form').removeClass('showform');
 }
+

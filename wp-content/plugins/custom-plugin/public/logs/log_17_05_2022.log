@@ -1,0 +1,1189 @@
+
+========================Time ====================
+17-05-2022 05:00:52
+======================== Post Data ====================
+Array
+(
+    [cs_dentist_name] => Dr. Surinder Rana
+    [cs_clinic_name] => Hotel Alpina
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Webnar
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:43:59
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Surinder Rana
+    [cs_clinic_name] => Hotel Alpina
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Way
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:44:37
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Surinder Rana
+    [cs_clinic_name] => Hotel Alpina
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Way
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:45:12
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Surinder Rana
+    [cs_clinic_name] => Hotel Alpina
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Way
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:45:26
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 157
+    [cs_dentist_name] => 
+    [cs_clinic_name] => Forrest Park
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:45:44
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => 
+    [cs_clinic_name] => Forrest Park
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Crown
+    [cs_implant_system] => sdf
+    [cs_material_type] => Largest
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:46:23
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => 
+    [cs_clinic_name] => Forrest Park
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Crown
+    [cs_implant_system] => sdf
+    [cs_material_type] => Largest
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:46:36
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 165
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => 
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:46:46
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => 
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:46:59
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => 
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:47:08
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => 
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => 
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:47:12
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => 
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:47:36
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => 
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:48:26
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => 
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:48:36
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:49:07
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:49:13
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:51:07
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:51:58
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:52:50
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:53:10
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:53:20
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:53:25
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:53:42
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 165
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-13
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Largest
+    [cs_implant_system] => sdf
+    [cs_material_type] => Largest
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 06:53:59
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 161
+    [cs_dentist_name] => 
+    [cs_clinic_name] => Richmore Apartments
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:54:11
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 161
+    [cs_dentist_name] => 
+    [cs_clinic_name] => Richmore Apartments
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:54:15
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 153
+    [cs_dentist_name] => 
+    [cs_clinic_name] => Jesmond Mansion
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:58:27
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 153
+    [cs_dentist_name] => 
+    [cs_clinic_name] => Jesmond Mansion
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:58:40
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 165
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 06:59:45
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 165
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 07:00:03
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 165
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 07:01:08
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 165
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 07:04:07
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 165
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 07:04:22
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:09:46
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:10:29
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:15:05
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:15:10
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:15:56
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:16:26
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 165
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 07:16:39
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Other
+    [cs_implant_system] => sdf
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 07:16:43
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Other
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:17:36
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Other
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:17:53
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Other
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:18:06
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-21
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Other
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:36:37
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 165
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 07:36:52
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-20
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Female
+    [cs_restoration_type] => Dignstatic wax up
+    [cs_implant_system] => sdf
+    [cs_material_type] => Largest
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:37:41
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 165
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 07:38:00
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-19
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Other
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:39:31
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 165
+    [cs_dentist_name] => Dr. Santosh Kumar
+    [cs_clinic_name] => Development Land
+    [cs_email] => sdgs@gmail.com
+    [cs_phone] => 987456310
+    [cs_date] => 2022-05-19
+    [cs_patient_name] => Patinet
+    [cs_patient_age] => 45
+    [cs_gender] => Male
+    [cs_restoration_type] => Largest
+    [cs_implant_system] => sdf
+    [cs_material_type] => Dignstatic wax up
+    [cs_submit] => Submit
+)
+
+======================== validation ====================
+Array
+(
+)
+
+======================== Success ====================
+
+========================Time ====================
+17-05-2022 07:39:45
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 161
+    [cs_dentist_name] => 
+    [cs_clinic_name] => Richmore Apartments
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)
+
+========================Time ====================
+17-05-2022 07:39:48
+======================== Post Data ====================
+Array
+(
+    [cs_post_id] => 161
+    [cs_dentist_name] => 
+    [cs_clinic_name] => Richmore Apartments
+    [cs_email] => 
+    [cs_phone] => 
+    [cs_date] => 
+    [cs_patient_name] => 
+    [cs_patient_age] => 
+    [cs_implant_system] => 
+    [cs_submit] => Submit
+)

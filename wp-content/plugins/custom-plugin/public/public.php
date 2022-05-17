@@ -117,6 +117,7 @@ class Custom_Plugin_Public {
     public function enqueue_styles() {
  
       wp_enqueue_style($this->plugin_name, plugin_dir_url(__FILE__) . 'css/style.css?v='.time(), array(), 'all'); 
+      wp_enqueue_style('sweetalert2-css','https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.min.css', array(), 'css'); 
 
     }
 
@@ -130,6 +131,7 @@ class Custom_Plugin_Public {
 
     public function enqueue_scripts() {
       wp_enqueue_script( 'custom_js', plugin_dir_url(__FILE__) . 'js/custom.js?v='.time(), array('jquery') );
+      wp_enqueue_script( 'sweetalert2-js', 'https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js', array('jquery') );
       wp_enqueue_script( 'ajax-script', plugin_dir_url( __FILE__ ) . 'js/my-ajax-script.js', array('jquery') );
       wp_localize_script( 'ajax-script', 'my_ajax_object', array( 'ajax_url' => admin_url( 'admin-ajax.php' ) ) );
     }

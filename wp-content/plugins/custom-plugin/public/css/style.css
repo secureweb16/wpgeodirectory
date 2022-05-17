@@ -4,7 +4,15 @@
     display: flex;
     flex-wrap: wrap;
 }
-#custom-poup-form {
+#custom-poup-form.custom-poup-form{
+    display: none;
+}
+
+#custom-poup-form.custom-poup-form.showform{
+    display: block;
+}
+
+#custom-poup-form {    
     position: fixed;
     top: 50%;
     left: 0;
