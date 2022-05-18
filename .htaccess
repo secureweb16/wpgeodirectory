@@ -6,11 +6,11 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /wpgeodirectory/
+RewriteBase /kalvin-geo-plugin/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /wpgeodirectory/index.php [L]
+RewriteRule . /kalvin-geo-plugin/index.php [L]
 </IfModule>
 
 # END WordPress
